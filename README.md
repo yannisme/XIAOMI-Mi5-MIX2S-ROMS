@@ -33,7 +33,7 @@
 
 - **下载获取 安卓8.0-Android 8.0-奥利奥 请移步至 [Android 8.0分类](https://www.me-1.cn/t/android-8-0-oreo)**
 
->温馨提示** 2017-08-27**
+>  **2017-08-27**
 >最新版本的AOSP/AEX **“首选网络制式”** 处只有LET/3G/2G了
 电信用户请先刷老版本(20170624之前)，改好后卡刷新的版本 - by: Boderline
 或者使用Xp框架中的locknetworktype解决

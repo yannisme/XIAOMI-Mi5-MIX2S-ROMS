@@ -31,7 +31,7 @@ SILM7  : 7.1.2.BUILD.1.17
 
 * * *
 
-附：[超详细手机刷机教程](https://kuoxo.com/%e6%89%8b%e6%9c%ba%e5%88%b7%e6%9c%ba%e6%95%99%e7%a8%8b/) | [刷入第三方ROM教程](http://www.miui.com/thread-7308186-1-1.html) | [刷机相关资源](https://x.kuoxo.com) | [刷机固件](https://pan.baidu.com/s/1jHO4BVg) | [GApps](https://x.kuoxo.com/t/gapps) 
+附：[超详细手机刷机教程](https://kuoxo.com/%e6%89%8b%e6%9c%ba%e5%88%b7%e6%9c%ba%e6%95%99%e7%a8%8b/) \ [刷入第三方ROM教程](http://www.miui.com/thread-7308186-1-1.html) \ [刷机相关资源](https://x.kuoxo.com) \ [刷机固件](https://pan.baidu.com/s/1jHO4BVg) \ [GApps](https://x.kuoxo.com/t/gapps) 
 
 [7.1原生识别电信卡完美解决方案 (无需补丁)](http://www.miui.com/thread-6617564-1-1.html) (AOSPA有效，感谢 @yuyiyang)
 

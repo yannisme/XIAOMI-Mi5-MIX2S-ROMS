@@ -8,7 +8,7 @@
 
 同时，将不再进行刷机包的存盘，搬运的信息均为其官方消息
 
-官改 或者 低级/恶意 的 ROM 将不会出现在此文章中
+官改 或者 低级/恶意 的 ROM 将不会出现在此MD中
 
 Android P | [Miui Eu](http://www.mi.com/global/androidppreview/) / [Google Developers](https://developer.android.com/) | 2018-05-03 `1.39G` [点击下载](http://bigota.d.miui.com/8.5.3/polaris_dp_global_images_8.5.3_20180503.0000.00_9.0_ef2f024b87.tgz)
 

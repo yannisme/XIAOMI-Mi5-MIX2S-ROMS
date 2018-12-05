@@ -20,5 +20,6 @@ Lineageos | 前身为Cyanogenmod (CM)
 
 * * *
 
-PS：欢迎留言交流讨论
+PS：欢迎留言交流讨论 
+
 Xiaomi ROMs QQ Group number：201666158

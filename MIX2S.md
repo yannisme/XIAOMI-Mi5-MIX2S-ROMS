@@ -18,6 +18,8 @@ Flyme | 全新的 Flyme 7，让体验更美好。
 
 Lineageos | 前身为Cyanogenmod (CM)
 
+PixelExperience | [Official](https://download.pixelexperience.org/polaris/) | 2018-12-10 `827.49 MB` [点击获取](https://download.pixelexperience.org/polaris/)
+
 * * *
 
 PS：欢迎留言交流讨论 

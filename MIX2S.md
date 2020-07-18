@@ -40,5 +40,6 @@ ArrowOS | [Official](https://arrowos.net/) | [点击获取](https://sourceforge.
 
 ---
 
-PS：欢迎留言交流讨论，我们的QQ群是 201666158 [Mi ROMs]
+PS：欢迎留言交流讨论，我们的QQ群是 201666158 [Mi ROMs]  
+
  **事先声明：请在刷机前备份所有重要数据并选择谨慎刷机，本群本站不承担任何刷机风险和相关责任！**
